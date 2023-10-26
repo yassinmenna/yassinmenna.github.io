@@ -11,7 +11,7 @@ Discover the art of creating stunning living spaces with our website, where we e
   </header>
 
   <div class="banner">
-    <img src="Photos/home decor/banner.jpeg" alt="Banner image" width=100% margin: 0 auto>
+    <img src="banner.jpeg" alt="Banner image" width=100% margin: 0 auto>
   </div>
   
   <main>
