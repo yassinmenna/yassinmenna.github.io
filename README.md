@@ -1,6 +1,5 @@
 # yassinmenna.github.io
 Discover the art of creating stunning living spaces with our website, where we explore the latest trends and timeless classics in home aesthetics and decor.
-<!DOCTYPE html>
 <html>
 <head>
   <title>My Website</title>
