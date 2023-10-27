@@ -1,14 +1,10 @@
 # yassinmenna.github.io
+  <header>
+    <h1>Living Spaces</h1>
+  </header>
 Discover the art of creating stunning living spaces with our website, where we explore the latest trends and timeless classics in home aesthetics and decor.
 <html>
-<head>
-  <title>My Website</title>
-</head>
 <body>
-  <header>
-    <h1>My Website</h1>
-  </header>
-
   <div class="banner">
     <img src="banner.jpeg" alt="Banner image" width=100% margin: 0 auto>
   </div>
