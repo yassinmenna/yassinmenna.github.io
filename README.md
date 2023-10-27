@@ -1,8 +1,16 @@
   <div class="banner">
     <img src="banner2.jpg" alt="Banner image" width=100% margin: 0 auto>
   </div>
-  
-  <header>
+  .image-text {
+  position: relative;
+}
+
+.image-text h1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: white;
+}  <header>
     <h1>Living Spaces</h1>
   </header>
 Discover the art of creating stunning living spaces with our website, where we explore the latest trends and timeless classics in home aesthetics and decor.
