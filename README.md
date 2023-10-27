@@ -1,3 +1,4 @@
+theme: minima
   <div class="banner">
     <img src="banner2.jpg" alt="Banner image" width=100% margin: 0 auto>
   </div>
